@@ -1,3 +1,5 @@
+--#Quelques insertions non respectueuses
+
 --#Création d’une insertion avec non-respect d'une cle primaire --
 INSERT INTO Caserne VALUES (1, 1, 7, 24, 'avenue de la gare', 75017, 'Paris 17e'); /*Il existe déjà une caserne avec pour clé primaire Id_caserne = 1. La clé primaire étant unique, il n’est pas possible d’avoir pour deux casernes la même valeur d’Id_caserne*/
 
