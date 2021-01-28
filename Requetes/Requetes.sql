@@ -1,3 +1,4 @@
+
 --Question 1 : Quelles sont les casernes protègeant à la fois Brignoles et Le Luc et où sont les casernes (on veut les casernes et la ville de ces casernes) ?--
 
 SELECT P1.id_caserne, caserne.nom_ville
